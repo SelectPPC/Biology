@@ -2,7 +2,7 @@
 
 * [Методичні матеріали до практичних робіт](https://github.com/SelectPPC/Biology/tree/main/Practice)
 * [Зошит для лабораторних робіт](https://github.com/SelectPPC/Biology/tree/main/Notes)
-* [Веб-версія лабораторних робіт](https://selectppc.github.io/Biology/) / [PowerPoint-версія](https://github.com/SelectPPC/Biology/blob/main/Labs/%D0%A1%D1%82%D0%B0%D1%80%D1%82.ppsx)
+* [Веб-версія лабораторних робіт](https://selectppc.github.io/Biology/) / [PowerPoint-версія](https://github.com/SelectPPC/Biology/blob/main/Labs/%D0%A1%D1%82%D0%B0%D1%80%D1%82.ppsx?raw=true)
 * [Теми на самостійне опрацювання з основ екології](https://github.com/SelectPPC/Biology/tree/main/Self)
 
 ---
