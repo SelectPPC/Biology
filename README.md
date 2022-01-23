@@ -1,3 +1,4 @@
+<img align="right" src="https://lh4.googleusercontent.com/6HEN6fMWcYNGMX165jvKndcwvZdR2SZ0_VilH5ECvuT-_GW4t1uB40mjbsUrcAS8vCmMwgP5YUI3BEbsA8q0Rg=w1280">
 # Навчальні матеріали з біології для студентів І курсу <br/> [ВСП "ППФК НТУ "ХПІ"](https://sites.google.com/polytechnic.co.cc/main)
 
 * [Методичні матеріали до практичних робіт](https://github.com/SelectPPC/Biology/tree/main/Practice)
