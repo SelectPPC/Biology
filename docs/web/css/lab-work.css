@@ -1,0 +1,157 @@
+#main{
+	
+}
+
+.blue{
+	color: #0070C0;
+}
+
+.red{
+	color: #FF0000;
+}
+
+.purple{
+	color: #6C4CA1;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.underlined{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.center{
+	text-align: center;
+}
+
+p{
+	margin: 0px;
+	display: inline-block;
+	z-index: 2;
+}
+
+body{
+	font-size: 2.5vmin;
+	overflow-x: hidden;
+	background-image: url(../img/lab-work-1/background-light-blue.png)
+}
+
+div{
+	display: block;
+}
+
+td, th {
+	border: 1px solid #000; /* Рамка вокруг таблицы */
+	padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+}
+table {
+	/* border: 1px solid #000; /* Рамка вокруг таблицы */ */
+}
+
+
+/* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+
+/* Video player */
+
+
+#video_pop {
+    z-index: 9999; 
+    position: absolute; 
+    top: 0px; 
+    left: 0px; 
+    width: 100%; 
+    height: 50000px; 
+    background: rgba(0,0,0,0.5); 
+    display: none;
+    cursor: pointer;
+}
+
+#the_Video {
+    width: 50%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+/* start da css for da buttons */
+.btn {
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.green {
+  background-color: #2ecc71;
+  box-shadow: 0px 5px 0px 0px #15B358;
+}
+
+.green:hover {
+  background-color: #48E68B;
+}
+
+.center-buttons {
+	text-align: center;
+	vertical-align: middle;
+}
